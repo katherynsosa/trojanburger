@@ -1,4 +1,4 @@
-# Kathmandu Restaurant
+# trojan Restaurant
 
 A website for Restaurant.
 
